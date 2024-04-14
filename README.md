@@ -1,6 +1,12 @@
 # CS-291-FriendshipNetwork
  Using graph theory, create a visual representation and analysis of a simulated friendship network. 
 
+#### References:
+[NumPy](https://numpy.org/doc/stable/reference/generated/numpy.matrix.html)
+
+[NetworkX](https://networkx.org/documentation/stable/tutorial.html)
+
+[Matplotlib](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html)
 
 ## Overview 
 This Python program analyzes a predefined network of friendships represented by a matrix using Python libraries such as NumPy, NetworkX, and Matplotlib. It calculates various network metrics, visualizes the friendship network graphically, and provides insights into social dynamics such as connectivity, popularity, and isolation within the network.
@@ -21,6 +27,16 @@ To run this program, follow these steps:
 
 ## Output 
 
-[Placeholder]
-[Placeholder]
-[Placeholder] 
+![ConsoleOutput](ConsoleOutput.png)
+Output text: 
+Total Friendships: 7
+Friendship Pairs (and strengths): [('Jeff', 'Zach', 9), ('Jeff', 'Michael', 4), ('Zach', 'Molly', 5), ('Zach', 'Michael', 6), ('Zach', 'Artie', 4), ('Molly', 'Michelle', 7), ('Michael', 'Artie', 8)]
+Most Popular Person: Zach
+Isolated Individuals: ['Ryan']
+Average Strength of Friendships: 6.14
+
+![Graph Visualization](GraphOutput.png)
+
+
+
+
