@@ -21,7 +21,6 @@ To run this program, follow these steps:
 5. Run the Script: Open your terminal or command prompt, navigate to the directory containing the script, and run:
    ```
    py FriendNetwork.py
-   
 ### Dependencies: 
 - NumPy: Used for managing data in a matrix format.
 - NetworkX: Utilized to transform the matrix into a graph and to calculate various network-related metrics.
