@@ -15,9 +15,10 @@ This Python program analyzes a predefined network of friendships represented by 
 To run this program, follow these steps:
 1. Install Python: Ensure that Python 3.6 or higher is installed on your system. You can download it from [Python's official website](https://www.python.org/downloads/)
 2. Install Required Libraries: Open your terminal or command prompt and install the requried Python libraries by running:
+   ```
    pip install numpy networkx matplotlib
-3. Download the Script: Down the "FriendNetwork.py" script to your local machine.
-4. Run the Script: Open your terminal or command prompt, navigate to the directory containing the script, and run:
+4. Download the Script: Down the "FriendNetwork.py" script to your local machine.
+5. Run the Script: Open your terminal or command prompt, navigate to the directory containing the script, and run:
    ```
    py FriendNetwork.py
    
